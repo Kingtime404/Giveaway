@@ -1,0 +1,17 @@
+export default {
+  background: "#0D0D0D",
+  surface: "#1A1A1A",
+  surfaceLight: "#2A2A2A",
+  primary: "#D4AF37",
+  primaryLight: "#F4D03F",
+  accent: "#FF6B35",
+  success: "#4ADE80",
+  warning: "#F59E0B",
+  error: "#EF4444",
+  text: "#FFFFFF",
+  textSecondary: "#A0A0A0",
+  textMuted: "#666666",
+  border: "#333333",
+  instagram: "#E1306C",
+  youtube: "#FF0000",
+};
